@@ -1,0 +1,4 @@
+# OS and editor noise
+.DS_Store
+.vs/
+.idea/
