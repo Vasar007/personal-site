@@ -12,7 +12,7 @@ The site is served by nginx straight from a checkout of this repository on the h
 
 ## Shared content
 
-The link set here is shared with the projects site ([Vasar007.github.io](https://github.com/Vasar007/Vasar007.github.io)) and the GitHub profile README ([Vasar007](https://github.com/Vasar007/Vasar007)). Change all three together.
+Parts of this content can also appear on the projects site ([Vasar007.github.io](https://github.com/Vasar007/Vasar007.github.io)) and the GitHub profile README ([Vasar007](https://github.com/Vasar007/Vasar007)). When changing content here, check those two as well.
 
 ## Licence
 
